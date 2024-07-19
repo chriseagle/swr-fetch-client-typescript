@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@types/node": "^20.14.11",
+    "swr": "^2.2.5",
+    "typescript": "^5.5.3"
+  },
+  "name": "swr-fetch-client-typescript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
